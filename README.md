@@ -3,7 +3,7 @@
 This project is a machine learning tool that automatically identifies the language of a given text.
 
 ## Overview
-Detecting languages is challenging because many languages share the same alphabet. Our model solves this by looking at "statistical fingerprints"—the frequency of specific character combinations (n-grams) unique to each language.
+Detecting languages is challenging because many languages share the same alphabet. Our model solves this by looking at "statistical fingerprints" - the frequency of specific character combinations (n-grams) unique to each language.
 
 ## Dataset
 We used a Kaggle dataset containing **10,337 sentences** across **17 different languages**, including English, Arabic, French, Greek, and more.
